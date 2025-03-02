@@ -19,7 +19,8 @@ Bachelor of Science Business Administration – Marketing, March 2025
   <li><b>Relevant Courses</b>: Analytics (I, II, III), Business Communications, Business Policy and Strategy, Consumer Behavior, Power of Professional Selling, Digital Marketing (foundations, selling in digital world, media trends), and Integrative Marketing Strategy.</li>
   <li><b>Prague University of Economics and Business</b>: Relevant courses: InternaFonal Business, Product/Brand MarkeFng, New Media and Trend in ICT.</li>
  
-
+## Professional Summary 
+<i> I am a mulFple industry-cerFfied professional with highly successful experience in delighFng clients in event coordinaFon and sales development. I want to combine data analyFcs, arFsFc creaFvity, and personalized service to create memorable events and build long-term relaFonships with clients. </i>
 
 
 ## Jobs and Internships
