@@ -47,6 +47,10 @@ Bachelor of Science Business Administration – Marketing, March 2025
 <li> Hosted office hours to support students, enhancing their understanding of marketing concepts and coursework.</li>
 
 ## Project Examples
+<i> <b> Database I built for a fictional beauty store. The purpose of this database is to help with inventory management, track sales, and keep information on existing customers. By having this centralized database, the store will be able to streamline its operations and reduce manual aspects. It will also improve customer service by providing real-time stock availability features.</li>
+
+![image](https://github.com/user-attachments/assets/a243d164-dee0-4adb-a66e-3ce7f99cfd8a)
+
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
