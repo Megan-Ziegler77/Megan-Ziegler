@@ -65,11 +65,11 @@ Bachelor of Science Business Administration – Marketing, March 2025
  <tr>
    <td>
      <ol>
-        <li>Activator</li>
-        <li>Relator</li>
-        <li>Significance</li>
-        <li>Command</li>
-        <li>Strategic</li>
+        <li><b>Activator</b> - I can make things happen by turning thoughts into actions. I want to do things now, rather than simply talk about them. </li>
+        <li><b>Relator</b> - I enjoy close relationships with others. I find deep satisfaction in working hard with friends to achieve a goal. </li>
+        <li><b>Significance</b>- I want to make a big impact. I am independent and prioeitize projects based on how much influence they will have on my organization or the people around me. </li>
+        <li><b>Command</b>- I have presence. I can take control of situations and make deicsions. </li>
+        <li><b>Strategic</b> - I create alternative ways to proceed. Faced with any given scenario, I can quickly splot the relevant patterns and issues.</li>
      </ol>
    </td>
    <td>
