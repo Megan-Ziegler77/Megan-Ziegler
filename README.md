@@ -27,6 +27,12 @@ Bachelor of Science Business Administration – Marketing, March 2025
 <i>See my [LinkedIn](https://www.linkedin.com/in/meganzieglerr/)</i>
 
 <i> <b> Event Coordinator - Executive Education Daniels College of Business</b>
+<li> Managed the logistical, operational, and administrative aspects of educational events and programs, ensuring seamless execution.</li>
+<li> Implemented time-saving measures that improved workflow efficiency, showcasing my problem-solving and process optimization skills.</li>
+<li> Contributed to strategic business objectives, balancing cost management and quality improvement while collaborating with cross-functional teams.</li>
+<li> Utilized Wrike to keep track of and organize tasks and projects, ensuring timely completion and alignment with team goals.</li>
+<li> Leveraged Salesforce to organize client information, streamline invoice management, and maintain accurate records for effective client relationship management.</li>
+
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
