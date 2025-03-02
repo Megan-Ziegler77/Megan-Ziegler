@@ -46,6 +46,7 @@ Bachelor of Science Business Administration – Marketing, March 2025
 <li> Ensured timely grading and feedback on presentations and activities, creating a structured and engaging learning environment.</li>
 <li> Hosted office hours to support students, enhancing their understanding of marketing concepts and coursework.</li>
 
+## Project Examples
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
