@@ -51,7 +51,7 @@ Bachelor of Science Business Administration – Marketing, March 2025
     </td>
     <td>
      <ul>
-        <li><a = SDR Certification from MemoryBlue </a></li>
+        <li> SDR Certification from MemoryBlue </li>
         <li><a href = HubSpot Email Marketing </a></li>
         <li><a href = Hubspot Inbound Marketing </a></li>
       </ul>
