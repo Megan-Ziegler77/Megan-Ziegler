@@ -21,6 +21,9 @@ Bachelor of Science Business Administration – Marketing, March 2025
 ## Professional Summary 
 <i> I am a multiple industry-certified professional with highly successful experience in delighting clients in event coordination and sales development. I want to combine data analytics, artistic crfeativity, and personalized service to create memorable events and build long-term relationships with clients. </i>
 
+## Project Examples
+<i> <b> Database I built for a fictional beauty store.<b> The purpose of this database is to help with inventory management, track sales, and keep information on existing customers. By having this centralized database, the store will be able to streamline its operations and reduce manual aspects. It will also improve customer service by providing real-time stock availability features.</li>
+
 <a name="Professional Experience"></a>
 <hr>
 
@@ -46,10 +49,6 @@ Bachelor of Science Business Administration – Marketing, March 2025
 <li> Independently led 2 full classes and assisted in 40+ additional sessions, reinforcing my public speaking and leadership abilities.</li>
 <li> Ensured timely grading and feedback on presentations and activities, creating a structured and engaging learning environment.</li>
 <li> Hosted office hours to support students, enhancing their understanding of marketing concepts and coursework.</li>
-
-## Project Examples
-<i> <b> Database I built for a fictional beauty store.<b> The purpose of this database is to help with inventory management, track sales, and keep information on existing customers. By having this centralized database, the store will be able to streamline its operations and reduce manual aspects. It will also improve customer service by providing real-time stock availability features.</li>
-
 
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
