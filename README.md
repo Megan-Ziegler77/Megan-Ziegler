@@ -52,7 +52,7 @@ Bachelor of Science Business Administration – Marketing, March 2025
     </td>
     <td>
      <ul>
-       <i> MicrosojOfficeSpecialist(Excel,Powerpoint,& WordAssociatecertfied)</li>
+        <li> Microsoft Office Specialist(Excel, Powerpoint,& Word Associate certfied)</li>
         <li> SDR Certification from MemoryBlue </li>
         <li> HubSpot Email Marketing </li>
         <li> Hubspot Inbound Marketing </li>
