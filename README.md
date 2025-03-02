@@ -33,6 +33,18 @@ Bachelor of Science Business Administration – Marketing, March 2025
 <li> Utilized Wrike to keep track of and organize tasks and projects, ensuring timely completion and alignment with team goals.</li>
 <li> Leveraged Salesforce to organize client information, streamline invoice management, and maintain accurate records for effective client relationship management.</li>
 
+<i> <b> Sales Devlopment Representative (SDR) Intern - memoryBlue </b>
+<li> Generated 2,000+ leads and secured 10 executive meetings, demonstrating strong prospecting and lead-generation abilities.</i>
+<li> Achieved SDR certification and placed 3rd in the ‘Biggest Games’ competition, excelling in sales call evaluations and persuasive communication.</i>
+<li> Gained hands-on experience in finance, expense management, and ERP systems while working with the client PayEm.</i>
+<li> Utilized CRM platforms to track engagement and optimize outreach strategies, enhancing my data analysis and strategic sales skills.</i>
+
+<i> <b> Marketing/Communications Teaching Assisant - Daniels College of Business </b>
+<li> Facilitated class discussions and provided constructive feedback, helping students develop their marketing and analytical skills.</li>
+<li> Independently led 2 full classes and assisted in 40+ additional sessions, reinforcing my public speaking and leadership abilities.</li>
+<li> Ensured timely grading and feedback on presentations and activities, creating a structured and engaging learning environment.</li>
+<li> Hosted office hours to support students, enhancing their understanding of marketing concepts and coursework.</li>
+
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
