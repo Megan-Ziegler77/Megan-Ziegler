@@ -20,7 +20,7 @@ Bachelor of Science Business Administration – Marketing, March 2025
   <li><b>Prague University of Economics and Business</b>: Relevant courses: InternaFonal Business, Product/Brand MarkeFng, New Media and Trend in ICT.</li>
  
 ## Professional Summary 
-<i> I am a mulFple industry-cerFfied professional with highly successful experience in delighFng clients in event coordinaFon and sales development. I want to combine data analyFcs, arFsFc creaFvity, and personalized service to create memorable events and build long-term relaFonships with clients. </i>
+<i> I am a multiple industry-certified professional with highly successful experience in delighting clients in event coordination and sales development. I want to combine data analytics, artistic crfeativity, and personalized service to create memorable events and build long-term relationships with clients. </i>
 
 
 ## Jobs and Internships
@@ -60,7 +60,7 @@ Bachelor of Science Business Administration – Marketing, March 2025
   </tr>
   <tr>
     <th>Gallup Skill Test</th>
-    <th>Other Skills</th>
+    <th>Soft Skills</th>
  </tr>
  <tr>
    <td>
@@ -74,9 +74,11 @@ Bachelor of Science Business Administration – Marketing, March 2025
    </td>
    <td>
      <ul>
-        <li>Wrike</li>
-        <li>Canva</li>
-       <li>Qualtrics</li>
+        <li><b>Leadership & Initiative</b> – I take charge in group projects, confidently making decisions and guiding teams toward success.</li>
+        <li><b>Communication & Relationship-Building</b> – I excel at networking, fostering strong connections, and effectively conveying ideas in presentations and events.</li>
+       <li><b>Strategic Thinking & Problem-Solving</b> – I analyze complex challenges, think ahead, and develop creative solutions in marketing, business, and game design.</li>
+       <li><b>Adaptability & Learning Agility</b> – I quickly embrace new concepts, technologies, and industries, demonstrating a strong ability to learn and adapt.</li>
+       <li><b>Organization & Project Management</b> – I efficiently manage multiple responsibilities, coordinate tasks, and ensure projects run smoothly from planning to execution.</li>
      </ul>
    </td>
  </tr>
