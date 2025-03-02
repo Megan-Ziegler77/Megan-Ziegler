@@ -33,6 +33,7 @@ Bachelor of Science Business Administration – Marketing, March 2025
 <li> Utilized Wrike to keep track of and organize tasks and projects, ensuring timely completion and alignment with team goals.</li>
 <li> Leveraged Salesforce to organize client information, streamline invoice management, and maintain accurate records for effective client relationship management.</li>
 
+
 <i> <b> Sales Devlopment Representative (SDR) Intern - memoryBlue </b>
 <li> Generated 2,000+ leads and secured 10 executive meetings, demonstrating strong prospecting and lead-generation abilities.</i>
 <li> Achieved SDR certification and placed 3rd in the ‘Biggest Games’ competition, excelling in sales call evaluations and persuasive communication.</i>
